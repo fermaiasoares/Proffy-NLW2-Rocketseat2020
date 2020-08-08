@@ -51,5 +51,10 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
 
 ## Executar o projeto
 
+- Clonar Repositório: `git clone https://github.com/fermaiasoares/Proffy-NLW2-Rocketseat2020.git`
+- Instalar dependências: `yarn install`, em cada pasta web, serve e mobile
+- Rodar Aplicação: `yarn start`
+
+
 ## Licença
 Todos os arquivos incluídos aqui, incluindo este README, estão sob [Licença MIT](./LICENSE).<br>
