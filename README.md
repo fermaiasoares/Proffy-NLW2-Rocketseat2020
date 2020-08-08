@@ -7,18 +7,18 @@
 <div align="center">
   Acesse os arquivos Readme com os passo a passo, divididos em Front-end, Back-end e Mobile: <br><br>
 
-💻 **Acesse o Front-end [aqui](DIGITAR DEPOIS)** | 
-🖥 **Acesse o Back-end [aqui](DIGITAR DEPOIS)** | 
-📱 **Acesse o Mobile [aqui](DIGITAR DEPOIS)** |
+💻 **Acesse o Front-end [aqui](https://github.com/fermaiasoares/Proffy-NLW2-Rocketseat2020/tree/master/web)** | 
+🖥 **Acesse o Back-end [aqui](https://github.com/fermaiasoares/Proffy-NLW2-Rocketseat2020/tree/master/serve)** | 
+📱 **Acesse o Mobile [aqui](https://github.com/fermaiasoares/Proffy-NLW2-Rocketseat2020/tree/master/mobile)** |
 </div>
 
 ## ÍNDICE
 
 -[Sobre o Projeto](#-sobre-o-projeto)
--[Tecnologias utilizadas]
--[Design]
--[Executar o projeto]
--[Licença]
+-[Tecnologias utilizadas](#-tecnologias-utilizadas)
+-[Design](#-design)
+-[Executar o projeto](#-executar-o-projeto)
+-[Licença](#-licença)
 
 ## Sobre o Projeto
 
