@@ -14,11 +14,11 @@
 
 ## ÍNDICE
 
--[Sobre o Projeto](#-sobre-o-projeto)
--[Tecnologias utilizadas](#-tecnologias-utilizadas)
--[Design](#-design)
--[Executar o projeto](#-executar-o-projeto)
--[Licença](#-licença)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Design](#-design)
+- [Executar o projeto](#-executar-o-projeto)
+- [Licença](#-licença)
 
 ## Sobre o Projeto
 
