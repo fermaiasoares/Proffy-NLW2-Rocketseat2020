@@ -14,7 +14,7 @@
 
 ## ÍNDICE
 
--[Sobre o Projeto]
+-[Sobre o Projeto](#-sobre-o-projeto)
 -[Tecnologias utilizadas]
 -[Design]
 -[Executar o projeto]
